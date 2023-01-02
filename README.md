@@ -3,6 +3,6 @@
 ## Misael Sousa
 Sobre
 
-:seedling: **Aprendendo:** HTML, CSS, JS, NODE
+:seedling: **Aprendendo:** HTML, CSS, JS, NODE, PYTHON, DART, FLUTTER
 
 
